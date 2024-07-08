@@ -3,7 +3,7 @@
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nogueira-wadson-754a69254/)
 
   <img src="https://github-readme-stats.vercel.app/api?username=nogueirawadson&theme=ambient_transparent&show_icons=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nogueirawadson/nogueirawadson &langs_count=8)](https://github.com/nogueirawadsongithub-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nogueirawadson &langs_count=9)](https://github.com/nogueirawadsongithub-readme-stats">
 
 ## Tecnologias 
 
