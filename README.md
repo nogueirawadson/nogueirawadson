@@ -1,4 +1,4 @@
-<h4 align="center">SOBRE MIM</h4>
+<h3 align="center">SOBRE MIM</h4>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="center">TECHS</h2>
+<h3 align="center">TECHS</h2>
 
 ###
 
