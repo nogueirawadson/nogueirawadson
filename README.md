@@ -2,7 +2,11 @@
 
 ###
 
-<h5 align="left">Acadêmico em Análise e Desenvolvimento de Sistemas (CRS)<br> Estudante de programação focado no desenvolvimento Web FullStack<br>Amante da tecnologia<br>Apaixonado por Músicas &&<br>Poetista nas horas vagas</h5>
+<img align="left" height="233" src="https://media.licdn.com/dms/image/v2/D4D03AQFiyoKGsB6L4g/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1718259673828?e=1730937600&v=beta&t=BzYAGb8oyc_wEO59Q3evvX0NJzfXMdP8QKgGD3pDhIk"  />
+
+###
+
+<h5 align="left">Graduando em Análise e Desenvolvimento de Sistemas (CRS)<br> Estudante de programação focado no desenvolvimento Web FullStack<br>Amante da tecnologia<br>Apaixonado por Músicas &&<br>Poetista nas horas vagas</h5>
 
 ###
 
