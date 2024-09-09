@@ -2,7 +2,7 @@
 
 ###
 
-<img align="left" height="233" src="https://media.licdn.com/dms/image/v2/D4D03AQFiyoKGsB6L4g/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1718259673828?e=1730937600&v=beta&t=BzYAGb8oyc_wEO59Q3evvX0NJzfXMdP8QKgGD3pDhIk"  />
+<img align="left" height="233" src="https://static.vecteezy.com/system/resources/previews/010/998/283/non_2x/3d-programmer-pc-illustration-side-view-free-png.png"  />
 
 ###
 
