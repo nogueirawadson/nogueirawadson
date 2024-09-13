@@ -61,7 +61,9 @@
   <a href="mailto:nogueirawadson@outlook.pt?subject=&body=" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="48" height="29" alt="microsoft-outlook logo"  />
   </a>
+  <a href="https://www.instagram.com/nogueirawadson/" target="_blak">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="48" height="29" alt="instagram logo"  />
+  </a>
 </div>
 
 ###
