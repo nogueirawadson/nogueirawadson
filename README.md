@@ -1,12 +1,9 @@
 
 
-###
-
-<img align="left" height="233" src="https://static.vecteezy.com/system/resources/previews/010/998/283/non_2x/3d-programmer-pc-illustration-side-view-free-png.png"  />
 
 ###
 
-<h5 align="left">Graduando em Análise e Desenvolvimento de Sistemas (CRS)<br> Estudante de programação focado no desenvolvimento Web FullStack<br>Amante da tecnologia<br>Apaixonado por Músicas &&<br>Poetista nas horas vagas</h5>
+<h5 align="left">Graduando em Análise e Desenvolvimento de Sistemas (UNICSul)<br> Estudante de programação focado no desenvolvimento Web FullStack<br>Amante da tecnologia<br>Apaixonado por Músicas &&<br>Poetista nas horas vagas</h5>
 
 ###
 
