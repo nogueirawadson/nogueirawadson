@@ -3,7 +3,7 @@
 
 ###
 
-<h3 align="left">Graduando em Análise e Desenvolvimento de Sistemas (UNICSul)<br> Estudante de programação focado no desenvolvimento Web FullStack </h3>
+<h5 align="left">Graduando em Análise e Desenvolvimento de Sistemas <br> Estudante de programação focado no desenvolvimento Web FullStack </h5>
 
 ###
 
